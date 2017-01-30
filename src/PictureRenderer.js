@@ -3,7 +3,7 @@ var PictureShader = require('./PictureShader'),
 
 /**
  * Renderer that clamps the texture so neighbour frames wont bleed on it
- * immitates context2d drawImage behaviour
+ * imitates context2d drawImage behaviour
  *
  * @class
  * @memberof PIXI.extras
